@@ -5,7 +5,6 @@ If you are American, please press this link=https://github.com/gx1285/gx1285/blo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # htmlファイル
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=oldkeitoweb)](https://github.com/gx1285/oldkeitoweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=keito_ch)](https://github.com/gx1285/keito_ch)
 # ステータスカードのgithub
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 # 自己紹介
