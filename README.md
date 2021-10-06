@@ -1,11 +1,11 @@
 # ステータス
-If you are American, please press this link=https://github.com/gx1285JP/gx1285JP/blob/main/README.md#status
+If you are American, please press this link=https://github.com/gx1285/gx1285/blob/main/README.md#status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # htmlファイル
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285JP&repo=oldkeitoweb)](https://github.com/gx1285JP/oldkeitoweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285JP&repo=keito_ch)](https://github.com/gx1285JP/keito_ch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=oldkeitoweb)](https://github.com/gx1285/oldkeitoweb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=keito_ch)](https://github.com/gx1285/keito_ch)
 # ステータスカードのgithub
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 # 自己紹介
@@ -14,8 +14,8 @@ If you are American, please press this link=https://github.com/gx1285JP/gx1285JP
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # html file
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285JP&repo=oldkeitoweb)](https://github.com/gx1285JP/oldkeitoweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285JP&repo=keito_ch)](https://github.com/gx1285JP/keito_ch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=oldkeitoweb)](https://github.com/gx1285/oldkeitoweb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=keito_ch)](https://github.com/gx1285/keito_ch)
 # Status card github
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 # Self-introduction
