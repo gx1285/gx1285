@@ -1,4 +1,5 @@
 # ステータス
+
 If you are American, please press this link=https://github.com/gx1285/gx1285/blob/main/README.md#status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,6 +13,8 @@ If you are American, please press this link=https://github.com/gx1285/gx1285/blo
 # 自己紹介
 よろしくお願いいたします
 html、pythonなどをやってる学生です。
+Discord.pyのForkを開発しています
+https://github.com/LasteSoft/discopython
 # status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,3 +25,5 @@ html、pythonなどをやってる学生です。
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 # Self-introduction
 I look forward to working with you.
+I'm developing a Fork for Discord.py
+https://github.com/LasteSoft/discopython
