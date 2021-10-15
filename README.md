@@ -4,6 +4,8 @@ If you are American, please press this link=https://github.com/gx1285/gx1285/blo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# discopython
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LasteSoft&repo=discopython)](https://github.com/LasteSoft/discopython)
 # color-printtext
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext)](https://github.com/gx1285/color-printtext)
 # htmlファイル
