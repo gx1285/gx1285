@@ -13,7 +13,7 @@ rekcha Botや、VirusInfoや、color-printtextを開発しています。
 
 # VirusInfo v0.4.1
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true)](https://github.com/gx1285/VirusInfo)
-# color-printtext v0.2.2
+# color-printtext 🎉v1.0.0🎉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true)](https://github.com/gx1285/color-printtext)
 # github-info Unreleased
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=github-info&theme=algolia&show_owner=true)](https://github.com/gx1285/github-info)
