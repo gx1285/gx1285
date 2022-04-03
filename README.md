@@ -1,7 +1,7 @@
 # 自己紹介
 こんにちは。
 html、python、C#などをやってる学生です。 
-rekcha Botや、VirusInfoや、color-printtextを開発しています。  
+github_apiや、VirusInfoや、color-printtextを開発しています。  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gx1285&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gx1285&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ## やっているプログラミング言語
