@@ -17,3 +17,5 @@ github_apiや、VirusInfoや、color-printtextを開発しています。
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true)](https://github.com/gx1285/color-printtext)
 # github_api Unreleased
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=github_api&theme=algolia&show_owner=true)](https://github.com/gx1285/github_api)
+# disapi.py Unreleased
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=disapi.py&theme=algolia&show_owner=true)](https://github.com/gx1285/disapi.py)
