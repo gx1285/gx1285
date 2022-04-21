@@ -4,7 +4,7 @@
 I am a person who does programming languages such as python, html, C#, etc. <br>
 We develop Easy-Website-Creator, VirusInfo, and color-printtext.(Everything in this is python)  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gx1285&show_icons=true&count_private=true&theme=algolia"></img><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gx1285&layout=compact&theme=algolia"></img></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gx1285&theme=algolia"></img></p>
 <h2 align="center">Programming languages we do</h2>
 <p align="center"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=JavaScript&logoColor=black" />
