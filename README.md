@@ -12,7 +12,7 @@ github_apiや、VirusInfoや、color-printtextを開発しています。  <br>
 <img align="center" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/CSharp-239120?&style=for-the-badge&logo=CSharp&logoColor=white" /></p>
 
-# VirusInfo v0.4.1
+<h1 align="center">VirusInfo v0.4.1</h1>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true)](https://github.com/gx1285/VirusInfo)
 # color-printtext 🎉v1.0.0🎉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true)](https://github.com/gx1285/color-printtext)
