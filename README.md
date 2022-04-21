@@ -2,7 +2,7 @@
 
 <p align="center">こんにちは。<br>
 html、python、C#などをやってる人です。 <br>
-github_apiや、VirusInfoや、color-printtextを開発しています。  <br>
+Easy-Website-Creatorや、VirusInfoや、color-printtextを開発しています。  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gx1285&show_icons=true&count_private=true&theme=algolia"></img><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gx1285&layout=compact&theme=algolia"></img></p>
 <h2 align="center">やっているプログラミング言語</h2>
@@ -13,10 +13,8 @@ github_apiや、VirusInfoや、color-printtextを開発しています。  <br>
 <img align="center" src="https://img.shields.io/badge/CSharp-239120?&style=for-the-badge&logo=CSharp&logoColor=white" /></p>
 
 <h1 align="center">VirusInfo v0.4.1</h1>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true)](https://github.com/gx1285/VirusInfo)
-# color-printtext 🎉v1.0.0🎉
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true)](https://github.com/gx1285/color-printtext)
-# github_api Unreleased
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=github_api&theme=algolia&show_owner=true)](https://github.com/gx1285/github_api)
-# disapi.py Unreleased
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LasteSoft&repo=disapi.py&theme=algolia&show_owner=true)](https://github.com/LasteSoft/disapi.py)
+<p align="center"><a href="https://github.com/gx1285/VirusInfo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true"></img></a></p>
+<h1 align="center">color-printtext 🎉v1.0.1🎉</h1>
+<p align="center"><a href="https://github.com/gx1285/color-printtext"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true"></img></a></p>
+<h1 align="center">Easy-Website-Creator Unreleased</h1>
+<p align="center"><a href="https://github.com/gx1285/Easy-Website-Creator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=Easy-Website-Creator&theme=algolia&show_owner=true"></img></p>
