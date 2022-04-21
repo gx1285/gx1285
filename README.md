@@ -24,7 +24,7 @@ We develop Easy-Website-Creator, VirusInfo, and color-printtext.(Everything in t
 
 <h1 align="center">自己紹介</h1>
 <h2 align="center" href="">The English version is here.</h2>
-<p align="center">こんにちは。<br>
+<p align="center">こんにちは。:wave:<br>
 python、html、C#などのプログラミング言語をやってる人です。 <br>
 Easy-Website-Creatorや、VirusInfoや、color-printtextを開発しています。(この中にあるものはすべてpythonです)  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gx1285&show_icons=true&count_private=true&theme=algolia"></img><br>
