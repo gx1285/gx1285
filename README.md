@@ -1,5 +1,5 @@
 <h1 align="center">self-introduction</h1>
-<h2 align="center"><a href="https://github.com">日本語版はこちらです。</a></h2>
+<h2 align="center"><a href="https://github.com/gx1285#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B">日本語版はこちらです。</a></h2>
 <p align="center">Hello.👋<br>
 I am a person who does programming languages such as python, html, C#, etc. <br>
 We develop Easy-Website-Creator, VirusInfo, and color-printtext.(Everything in this is python)  <br>
@@ -23,7 +23,7 @@ We develop Easy-Website-Creator, VirusInfo, and color-printtext.(Everything in t
 <!--japanese-->
 
 <h1 align="center">自己紹介</h1>
-<h2 align="center" href="">The English version is here.</h2>
+<h2 align="center"><a href="https://github.com/gx1285#self-introduction">The English version is here.</a></h2>
 <p align="center">こんにちは。:wave:<br>
 python、html、C#などのプログラミング言語をやってる人です。 <br>
 Easy-Website-Creatorや、VirusInfoや、color-printtextを開発しています。(この中にあるものはすべてpythonです)  <br>
