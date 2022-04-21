@@ -12,10 +12,10 @@ Easy-Website-Creatorや、VirusInfoや、color-printtextを開発しています
 <img align="center" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/CSharp-239120?&style=for-the-badge&logo=CSharp&logoColor=white" /></p>
 
-<h1 align="center">Some of the things I make</h1>
-<h1 align="center">VirusInfo v0.4.1</h1>
+<h1 align="center">私が作っている物の一部</h1>
+<h2 align="center">VirusInfo v0.4.1</h2>
 <p align="center"><a href="https://github.com/gx1285/VirusInfo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true"></img></a></p>
-<h1 align="center">color-printtext 🎉v1.0.1🎉</h1>
+<h2 align="center">color-printtext 🎉v1.0.1🎉</h2>
 <p align="center"><a href="https://github.com/gx1285/color-printtext"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true"></img></a></p>
-<h1 align="center">Easy-Website-Creator Unreleased</h1>
+<h2 align="center">Easy-Website-Creator Unreleased</h2>
 <p align="center"><a href="https://github.com/gx1285/Easy-Website-Creator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=Easy-Website-Creator&theme=algolia&show_owner=true"></img></p>
