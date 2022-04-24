@@ -13,11 +13,11 @@ We develop Norton-Safe-Web.py, VirusInfo, and color-printtext.(Everything in thi
 <img align="center" src="https://img.shields.io/badge/CSharp-239120?&style=for-the-badge&logo=CSharp&logoColor=white" /></p>
 
 <h1 align="center">Some of the things I make</h1>
-<h2 align="center">Norton-Safe-Web.py 0.1.2</h2>
+<h2 align="center">Norton-Safe-Web.py</h2>
 <p align="center"><a href="https://github.com/gx1285/Norton-Safe-Web.py"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=Norton-Safe-Web.py&theme=algolia&show_owner=true"></img></p>
-<h2 align="center">VirusInfo v0.4.1</h2>
+<h2 align="center">VirusInfo</h2>
 <p align="center"><a href="https://github.com/gx1285/VirusInfo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true"></img></a></p>
-<h2 align="center">color-printtext 🎉v1.0.1🎉</h2>
+<h2 align="center">🎉color-printtext🎉</h2>
 <p align="center"><a href="https://github.com/gx1285/color-printtext"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true"></img></a></p>
 
 
@@ -38,10 +38,10 @@ Norton-Safe-Web.pyや、VirusInfoや、color-printtextを開発しています�
 <img align="center" src="https://img.shields.io/badge/CSharp-239120?&style=for-the-badge&logo=CSharp&logoColor=white" /></p>
 
 <h1 align="center">私が作っている物の一部</h1>
-<h2 align="center">Norton-Safe-Web.py 0.1.2</h2>
+<h2 align="center">Norton-Safe-Web.py</h2>
 <p align="center"><a href="https://github.com/gx1285/Norton-Safe-Web.py"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=Norton-Safe-Web.py&theme=algolia&show_owner=true"></img></p>
-<h2 align="center">VirusInfo v0.4.1</h2>
+<h2 align="center">VirusInfo</h2>
 <p align="center"><a href="https://github.com/gx1285/VirusInfo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=VirusInfo&theme=algolia&show_owner=true"></img></a></p>
-<h2 align="center">color-printtext 🎉v1.0.1🎉</h2>
+<h2 align="center">🎉color-printtext🎉</h2>
 <p align="center"><a href="https://github.com/gx1285/color-printtext"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gx1285&repo=color-printtext&theme=algolia&show_owner=true"></img></a></p>
 
